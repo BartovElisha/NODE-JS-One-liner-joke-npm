@@ -1,0 +1,22 @@
+{
+  "name": "node-js-one-liner-joke-npm",
+  "version": "1.0.0",
+  "description": "NODE JS Module ,Task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartovElisha/NODE-JS-One-liner-joke-npm.git"
+  },
+  "author": "Elisha Bartov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BartovElisha/NODE-JS-One-liner-joke-npm/issues"
+  },
+  "homepage": "https://github.com/BartovElisha/NODE-JS-One-liner-joke-npm#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
+}
